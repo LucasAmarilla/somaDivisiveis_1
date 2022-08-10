@@ -1,1 +1,1 @@
-Para a execução do projeto basta rodar o arquivo main.exe localizado na raiz do projeto ou executando o comando "dart run" no presente diretorio.
+ Este é um projeto cli e para a execução do projeto basta executar o arquivo main.exe localizado na raiz do projeto ou executando o comando "dart run" no presente diretorio. O codigo fonte também se econtra no diretorio "bin" e a função em "lib"
