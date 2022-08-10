@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:cli/soma.dart';
+import 'package:somaDivisiveis/soma.dart';
 
 void main() {
   int err = 0;
